@@ -60,3 +60,6 @@ Access the Web Application:
 Open your web browser and go to http://localhost:5000. You should see your chatbot UI.
 
 If you have any doubts about the setup, please feel free to connect with me at guptavivek9794@gmail.com.
+
+![genai](https://github.com/user-attachments/assets/4f7c406c-6a2d-416a-a815-3b1ecdd8e59d)
+
