@@ -12,11 +12,12 @@ pip install Flask python-dotenv google-generativeai markdown
 
 4. Obtain Google API Key
   Go to https://ai.google.dev/
+
    click Get API key in Google AI Studio
    click Create API Key
    click Get api for new project
    and copy api key
-5. Set Up Your Project
+6. Set Up Your Project
 5.1. Create a .env File
 In your project directory, create a .env file to store environment variables securely:
 
