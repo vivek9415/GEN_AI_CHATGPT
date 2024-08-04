@@ -1,5 +1,6 @@
 # AI_CHATGPT
 AI_CHATGPT_PYTHON
+
 Step-by-Step Documentation for Creating a Chatbot UI with Flask and Google Generative AI
 
 1. Set Up Your Environment
@@ -11,8 +12,11 @@ Ensure you have Python 3.6 or newer installed on your system.
 You can download it from python.org.
 
 3. Install Required Packages
+4. 
 2.1. Install Flask and Other Dependencies
+   
 With your virtual environment activated, install Flask and other required packages:
+
 command code:
 
 pip install Flask python-dotenv google-generativeai markdown
@@ -49,6 +53,7 @@ Start the Flask Server:
 In your terminal, run:
 
 python app.py
+
 Access the Web Application:
 
 Open your web browser and go to http://localhost:5000. You should see your chatbot UI.
