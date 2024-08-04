@@ -11,8 +11,8 @@ Ensure you have Python 3.6 or newer installed on your system.
 
 You can download it from python.org.
 
-3. Install Required Packages
-4. 
+2. Install Required Packages
+
 2.1. Install Flask and Other Dependencies
    
 With your virtual environment activated, install Flask and other required packages:
@@ -21,7 +21,7 @@ command code:
 
 pip install Flask python-dotenv google-generativeai markdown
 
-5. Obtain Google API Key
+3. Obtain Google API Key
    
   Go to https://ai.google.dev/
 
@@ -33,7 +33,7 @@ pip install Flask python-dotenv google-generativeai markdown
    
    and copy api key
    
-7. Set Up Your Project
+4. Set Up Your Project
    
  Create a .env File
  
@@ -44,6 +44,7 @@ GOOGLE_API_KEY=your_api_key_here
 Replace your_api_key_here with the API key you obtained from Google Cloud.
 
 Create Your Flask Application
+
 Create a file named app.py in your project directory.
 
 Run Your Application
